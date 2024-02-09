@@ -1,36 +1,36 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+## Olá!
 
 <!-- Presentation -->
-<p>
-  👋 Olá, me chamo Caio e sou um apaixonado por desenvolvimento e data science!
+- 👋 Me chamo Caio e sou um apaixonado por desenvolvimento e data science!<br />
 
-  - 🌱 Sou estudando de graduação em Engenharia de Software e Data Sciente.
+- 🌱 Estudante de graduação em Engenharia de Software e Data Sciente.
 
-  - 🔭 Estou a procura de um emprego/estágio na área afim de aperfeiçoar meus conhecimentos.
-</p>
+- 🔭 Estou a procura de um emprego/estágio na área afim de aperfeiçoar meus conhecimentos.
+
+<div>
+  <a href="https://github.com/C41m">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C41m&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41m&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Tenho 30 anos, já trabalho com Data Science e desenvolvimento de automações como freelancer, tenho fortes conhecimentos em Python, SQL, GCP, GitHub, PowerBI e Excel, e atualmente estudando além de Javascript, HTML e CSS, os principais frameworks do mercado React e Angular.
+  - 💬 Tenho 31 anos, já trabalho com Data Science e desenvolvimento de automações como freelancer, tenho fortes conhecimentos em Python, SQL, GCP, GitHub, PowerBI e Excel, e atualmente estudando além de Javascript, HTML e CSS, também incluo os principais frameworks do mercado React e Angular.
 
-  - ⚡ Adoro estudar novas tecnologias e sonho em trabalhar com engenharia de dados ou front-end. Gosto de esportes coletivos e ao ar livre!
+  - ⚡ Adoro aprender novas tecnologias e sonho em trabalhar com engenharia de dados ou front-end. Gosto de esportes coletivos e ao ar livre!
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/Site-grey?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://caiofernando-portfolio.netlify.app/)
+[![SitePessoal](https://img.shields.io/badge/Site-grey?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://caiofernando-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiofernandobs/)
 
-<!-- GithubStats -->
-![GPRM Stats](https://github-readme-stats.vercel.app/api?username=C41m&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <!-- Portfolio -->
-## Portfolio:
+## 📂 Portfolio:
 - [Engenharia e Análise de Dados via API](https://github.com/C41m/Pokemon_Survivors)
 - [Engenharia e Análise de Dados via CSV não tratado](https://github.com/C41m/ifood)
 - [Download de Músicas via API do Youtube (Python)](https://github.com/C41m/youtube_downloader)
@@ -62,8 +62,9 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="GCP" height="30" width="40" src="https://symbols.getvecta.com/stencil_3/1_google-cloud-platform.6c162963fd.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">    
   </div>
   
   <!-- Skills: Libraries -->
